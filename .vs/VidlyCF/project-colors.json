@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "623ce1d5-5871-436c-af99-5e2c2f0f47d5": {
+      "ProjectGuid": "623ce1d5-5871-436c-af99-5e2c2f0f47d5",
+      "DisplayName": "VidlyCF",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
